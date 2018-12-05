@@ -1,0 +1,16 @@
+PODS:
+  - MXTimer (0.1.0)
+
+DEPENDENCIES:
+  - MXTimer (from `../`)
+
+EXTERNAL SOURCES:
+  MXTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MXTimer: 519db71ae629ac2b521175fe4b91ea06fe3b2bf8
+
+PODFILE CHECKSUM: da860255a5a21acd4c33c5f019947092a72b5756
+
+COCOAPODS: 1.5.3

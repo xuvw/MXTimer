@@ -1,0 +1,6 @@
+framework module MXTimer {
+  umbrella header "MXTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
